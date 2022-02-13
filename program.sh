@@ -7,3 +7,5 @@ echo $name;
 echo "5bd20d8"
 echo "Hello $name. Greetings to you my friend";
 echo "hallo mandarijnen zijn lekker"
+echo "Hello $name. Greetings to you my friend.";
+
